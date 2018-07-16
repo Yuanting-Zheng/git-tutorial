@@ -10,3 +10,5 @@ will2
 
 -fux _B
 fix-b
+
+diff
